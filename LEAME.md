@@ -31,8 +31,8 @@ La API a la que queremos que te conectes es [https://dummyjson.com/docs/quotes](
 * Usar Composition API y setup script en componentes de Vue
 
 ## Desarrollador
-Nombre: `<tu nombre>` <br/>
-Correo electrónico: `<tu correo electrónico>`<br/>
+Nombre: `Yohanna Padrino` <br/>
+Correo electrónico: `yohanazareth2693@gmail.com`<br/>
 
 ## Instrucciones
 ### NO INICIES UNA NUEVA APLICACIÓN LARAVEL, ¡UTILIZA ESTE ESQUELETO EN SU LUGAR!
